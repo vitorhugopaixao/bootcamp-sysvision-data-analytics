@@ -11,7 +11,7 @@ Nesse bootcamp da DIO, em parceria com a Sysvision, participei de uma jornada de
 - Módulo 4: Processamento de Dados;
 - Módulo 5: Modelagem de Dados;
 - Módulo 6: Data Analytics e Storytelling e
-- Módulo 1: Gerenciamento de Workspaces e Datasets.
+- Módulo 7: Gerenciamento de Workspaces e Datasets.
     
 
 
