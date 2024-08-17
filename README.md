@@ -6,6 +6,7 @@ Nesse bootcamp da DIO, em parceria com a Sysvision, participei de uma jornada de
 
 ## Módulos
 
+- Módulo 1: Conceitos Iniciais;
 - Módulo 2: Fundamentos Power BI;
 - Módulo 3: Visualização de Dados e Relatório;
 - Módulo 4: Processamento de Dados;
